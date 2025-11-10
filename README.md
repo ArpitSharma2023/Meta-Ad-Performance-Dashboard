@@ -87,6 +87,7 @@ KPI Metrics
 Insight: Ads are performing strongly in visibility and engagement, but actual purchase efficiency is weak: need to optimize targeting/landing pages. 
 •	High CTR (11.76%) and Engagement Rate (13.56%) → clearly indicate that the ad creatives, messaging, and targeting at the top of the funnel are very effective. People are interested enough to click, like, share, or comment. 
 •	Low Purchase Rate (0.61%) and only 1.3K conversions out of 216K impressions → shows a sharp drop-off in the lower funnel. This is a classic case of "awareness and interest" being strong but "action (purchase)" being weak. 
+
 Engagement Breakdown 
 •	By Gender (Donut Chart) Female: 13K (43%) 
 •	Male: 6K (22%) 
@@ -94,19 +95,23 @@ Engagement Breakdown
 •	By Target Age (Bar Chart) Peak engagement: 20–30 age group (especially early 20s). 
 •	Drops significantly after 35+. Primary audience = Young adults. 
 Insight: Target ads towards females aged 18–30 for better ROI. 
+
 Geographic Distribution 
 	Top Engaged Countries US, India, Brazil, Germany, UK are major contributors.. 
 Insight: Focus campaigns in India & US (high potential, high engagement), and premium campaigns in Germany/UK (better conversion potential due to higher purchasing power). 
+
 Time-Based Trends 
 •	Weekly Engagement Trend (Stacked Bar) Fairly consistent across weeks, with no sharp drop. 
 •	Steady engagement shows ads maintain attention. 
 •	Hourly Engagement Trend (Line Chart) Peaks around late afternoon & evening (~15–20 hours). 
 •	Lowest engagement early morning (~0–5 hours). 
 •	Insight: Schedule ad delivery during afternoons & evenings for maximum impact. Data Tutorials YT 
+
 Calendar View 
 •	Engagements are mapped to days in June. 
 •	Certain dates (like 19th–21st, 25th–27th) show higher highlights. Campaign activity peaks on specific days, possibly due to launches/promotions. 
 Insight: Weekly promotions/events significantly drive engagement. 
+
 Analysis by Ad Type (Bottom-Right Table) Ad Type 	Impressions 	Clicks 	CTR 	Purchase Rate 	Conversion Rate 	Engagement Rate 
 Carousel 	48K 	6K 	11.7% 	0.59% 	5.1% 	13.4% 
 Image 	51K 	6K 	11.7% 	0.57% 	4.9% 	13.5% 
