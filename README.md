@@ -3,6 +3,7 @@ This is a Meta Ad Performance Dashboard that tracks the effectiveness of ad camp
 ## Project Explanation in Interview 
 Step 1: Give a High-Level Overview 
 "This is a Meta Ad Performance Dashboard that tracks the effectiveness of ad campaigns across key KPIs such as impressions, clicks, engagements, conversions, and budget. It provides a complete funnel view—from awareness to engagement to purchases—along with demographic, geographic, and time-based insights." 
+
 Step 2: Walk Through the Funnel Metrics 
 "At the top of the funnel, the ads generated 216K impressions and 25.4K clicks, giving a very high CTR of 11.76%. This is well above the industry average, which tells me the ad creatives and targeting were very effective in attracting attention. 
 The engagement rate is also strong at 13.56%, showing users are interacting with the content. However, when we move down the funnel, only 1.3K purchases were made, giving a conversion rate of 5.21% from clicks and a purchase rate of 0.61% from impressions. This indicates a big drop in efficiency from engagement to purchase." 
@@ -63,7 +64,6 @@ timestamp 	Exact time of event 	2025-03-12 14:30:00 	Build date hierarchy (Day, 
 day_of_week 	Derived field: day of the week 	Tuesday 	To compare weekday vs weekend performance 
 time_of_day 	Derived field: segment of day 	Afternoon 	See when users engage most 
 event_type 	Type of event: Impression, Click, Share, Comment, Purchase 	Click 	Funnel analysis (Impressions → Clicks → Purchases) 
-
 
 ## DASHBOARD INSIGHTS 
 KPI Metrics 
